@@ -13,5 +13,5 @@ namespace ExampleTest
     /// </summary>
     public partial class App : Application
     {
-    }
+    } 
 }
